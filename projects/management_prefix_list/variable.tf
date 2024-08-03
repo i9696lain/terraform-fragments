@@ -1,0 +1,4 @@
+variable "author" {
+  default = "author"
+}
+
